@@ -1,0 +1,9 @@
+1 PRINT "Ich wuensche allen von "
+2 PRINT "ganzem Herzen"
+3 PRINT "F R O H E WEIHNACHTEN!"
+4 PRINT "MERRY CHRISTMAS !"
+5 PRINT "MERRY CHRISTMAS !"
+6 GOTO 1
+7 END 
+9 PRINT "Guten Tag"
+10 GOTO 9
